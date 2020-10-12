@@ -1,6 +1,5 @@
 # Crop Prediction and Recommendation System
-#---------------------------------------------------------------------------------------------
-#---------------------------------------------------------------------------------------------
+===========================================================================
 
 
 # DO NOT COMMIT DIRECTLY TO THE MASTER BRANCH. CREATE A BRANCH OF YOUR OWN AND THEN COMMIT TO IT. BRANCES WILL BE MERGED AFTER WATCHING CODE CHANGES.
